@@ -2,7 +2,7 @@
 
 <div align="centre">
 
-[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/wandipratama/) [![GitHub followers](https://img.shields.io/github/followers/thisWandiPratama?label=Follow&style=social)](https://github.com/thisWandiPratama/?tab=follow)
+[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/80px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/wandipratama/) [![GitHub followers](https://img.shields.io/github/followers/thisWandiPratama?label=Follow&style=social)](https://github.com/thisWandiPratama/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/syofyan_zuhad/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=thisWandiPratama.thisWandiPratama)
  </div>
